@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=27&height=200&section=header&text=Data%20Scientist&fontSize=50&fontColor=000000&stroke=FFFFFF&strokeWidth=1&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=2E2EFE&text=DATA%20SCIENTIST&fontColor=000000&stroke=2E2EFE&strokeWidth=0.5&height=300&section=header&animation=twinkling&desc=Specializing%20in%20Anomaly%20Detection&descAlignY=66&descAlign=62" width="100%"/>
+
 
 ### Hi, there 👋
 
@@ -33,7 +34,3 @@ I'm Jae-Eun Choi, dreaming of becoming a Data Scientist. I have always enjoyed c
     <img alt="pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
     <img alt="pytorch" src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
-
-</br>
-
-<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=27&height=200&section=footer" width="100%"/>
