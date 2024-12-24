@@ -22,6 +22,7 @@ I'm Jae-Eun Choi, dreaming of becoming a Data Scientist. I have always enjoyed c
     <img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="75" height="75"/>
     <img alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="75" height="75"/>
     <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="75" height="75"/>
+    
 </p>
 
 <p align="center">
@@ -30,6 +31,7 @@ I'm Jae-Eun Choi, dreaming of becoming a Data Scientist. I have always enjoyed c
     <img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
     <img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
     <img alt="pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+    <img alt="pytorch" src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 
 </br>
